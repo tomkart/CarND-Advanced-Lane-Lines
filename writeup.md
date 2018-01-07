@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./result/result1.png "Undistorted"
-[image2]: ./result/result2.png "Road Transformed"
-[image3]: ./result/result_gradients.jpg "Binary Example"
+[image1]: ./results/result1.png "Undistorted"
+[image2]: ./results/result2.png "Road Transformed"
+[image3]: ./results/result_gradients.jpg "Binary Example"
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
 [image6]: ./examples/example_output.jpg "Output"
