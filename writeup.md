@@ -1,8 +1,5 @@
-## Writeup Template
+## Writeup 
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
----
 
 **Advanced Lane Finding Project**
 
@@ -28,7 +25,7 @@ The goals / steps of this project are the following:
 [image7]: ./results/fit_2.png "Fit Visual"
 [image8]: ./results/fit_3.png "Fit Visual"
 [image9]: ./results/fit_4.png "Fit Visual"
-[image10]: ./results/lane_data.jpg "Lane"
+[image10]: ./results/lane_data.png "Lane"
 [video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
