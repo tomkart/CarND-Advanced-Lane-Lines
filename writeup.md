@@ -128,6 +128,8 @@ I implemented this step in Cell 17 through 18 in my code in `project.ipynb` in t
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
+In version 2 of my project `project-v2.ipynb`, Cell 22.  I added in Sanity Checks for curvature and direction on the detected lanes, if they don't match up the previous good result will be used. Also sz_thresh has been adjusted in Cell 10 for shadows and different color of road surface.
+
 Here's a [link to my video result](./project_video_output.mp4)
 
 ---
